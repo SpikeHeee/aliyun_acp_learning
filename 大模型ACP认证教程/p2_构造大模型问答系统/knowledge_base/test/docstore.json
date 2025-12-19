@@ -1,0 +1,2580 @@
+{
+    "docstore/metadata": {
+        "d702c946-1fda-429f-a0f7-ab4079ebfc24": {
+            "doc_hash": "b3c9e123faccf8fce817bee8e5083ec0730570e2299efcd66d998bb0c40674e3"
+        },
+        "3bbd57bc-133d-4804-8829-7364ffbd286f": {
+            "doc_hash": "4bd772d081c9df0317e2897bc65825811a6b34945e9199972725ac02bdbcaf19"
+        },
+        "b475633e-3203-4ee3-9d4c-c1c705d38294": {
+            "doc_hash": "4c70c2bbd3cebdbd8b7cc0366d7c5597b5da6fae98b56bbe37fb721662eae1aa"
+        },
+        "35e4751b-0fa4-439f-a569-f8907b94d5db": {
+            "doc_hash": "d4062692eeb1d26eca742a9140207b214e608de7b0b26de388d6a6cef6e8cb98"
+        },
+        "571b9678-9d8c-4ae4-a144-65cb115bb2cf": {
+            "doc_hash": "61f562e35f722c074c05a7d8daeb6eb5369583c7c3aa790ed01b727e0d318434"
+        },
+        "07b9001f-cca9-45da-98f6-41f3ac87d561": {
+            "doc_hash": "dca0e7a7009020010ce7c967c4b3085aa10b709486015ee7c252c8998b9ad4b7"
+        },
+        "edb88d44-d8b0-4d4c-b460-6652290cf124": {
+            "doc_hash": "5784d938f410ae716efc1a3dbd155d7f6e3e9960129abf4499029d4f5992252c"
+        },
+        "66295343-3a33-4a26-8e4a-f7b05f2c567e": {
+            "doc_hash": "25a22e99de0d65f94d43aa0d40c664b099ba3b8032de79f3ad5f36a3b004e461"
+        },
+        "48321630-99e7-464d-979d-87b5cc5c7f55": {
+            "doc_hash": "929faedd54a057a422c4478239614c9448ae8ae56621886e5b565061ef387e45"
+        },
+        "73a5a6f9-478e-4aaa-aa6c-ff5209d09510": {
+            "doc_hash": "30d1de5455dab0f2e351f22ae191a82b4f723cd4a884c064dd76094dc26bf2bb"
+        },
+        "43327042-44c8-4358-91a0-289b5a64fad4": {
+            "doc_hash": "cf00f1a5c6f01c709d8adf34918373e69d282b2fe598bf362f5336523e465f56"
+        },
+        "0f04b3e9-006e-47bd-b68d-3d98274cc3dd": {
+            "doc_hash": "50a1160794bddfcf1b134d31e5836f3ec96baae382d9125f664f4ce65fa71dd9"
+        },
+        "fe2ef1f0-7b8c-47a3-8817-29cab20ac02f": {
+            "doc_hash": "5b44ca24e2a370b0a4dfc95ce9df7e678249cdb98275fa87e6b86e6f38413ebd"
+        },
+        "7633b43d-f511-4bfc-943e-d3eef0a4ed17": {
+            "doc_hash": "65630bdf7414b9669bff064bb0276d93aa02a6b00524d8ed7fd9f1312579ea1f"
+        },
+        "0a5662d6-3a4a-40dd-9872-1b259735f43c": {
+            "doc_hash": "31b75d32e1011f4daccfc0b90c6ed65ad53912a21f0dde5e0724c07f82b08d20"
+        },
+        "cdf88046-5aec-4b72-9b17-3af6691775de": {
+            "doc_hash": "63a64f0b715630035e7fdabc3078c4a7061a65955d0138542e25729de6ab553e"
+        },
+        "4176fc5d-189d-4cd4-9507-79818be1af3e": {
+            "doc_hash": "09324c464555b612a7947c1028980ca92ea6377e7db94ee27396b53bc622cca1"
+        },
+        "9febc672-56c2-438e-96d2-2ba69bfefc5e": {
+            "doc_hash": "54b7b9b600fcea337905404ffe37927d38cf7c6216ff2cb27124f03d98518a2f"
+        },
+        "44cd82b4-48f0-4b88-aad0-0efe650f323b": {
+            "doc_hash": "0856cb5d33e7058e7d0b74e4a9093808716000a05d5cf42c696000a4d7d71954"
+        },
+        "b1798aa8-57cc-44f1-b167-ff3576096b10": {
+            "doc_hash": "9866016889f43fd3cdc401e60c240842bd07ade8e9715516e7468ec67c145a9b"
+        },
+        "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd": {
+            "doc_hash": "c73494139228324ecddf4e8593b41e6f48157740a66406e4b9ab9c1ad1af48fe"
+        },
+        "a73e2139-6573-4a45-9820-e07528c89f16": {
+            "doc_hash": "f269024e9c5c723d8efde966339d0988a42ff5f3610d16714da90e66fe50abce"
+        },
+        "321559d9-1876-4d5f-9413-ff7d8afd826b": {
+            "doc_hash": "29a167aec8b5f0f5b4ae2753232c333f92cb35beeaea75bbfed0435b7b814805"
+        },
+        "8f88c66a-b738-43f5-bc98-51559b5e20ee": {
+            "doc_hash": "6c9f5a182f14702e7a433c88e07dad2993e3accc2284b3cd94e28c31436d6da0"
+        },
+        "be5879ee-0b45-485b-b2e4-09b34c038dca": {
+            "doc_hash": "298dfe3f913ecb8e8c6f77825a2a7652ff062f7d177310a6a7efe34112f21efb"
+        },
+        "657d2866-dfe0-4087-aee6-fb4312eb1c61": {
+            "doc_hash": "a57bda3850b92e50c85c1c3a748d5e42138ec36ce694a17166ddf171f9cfad98"
+        },
+        "8ffa95cd-8d03-4b28-8f3d-577884628a2d": {
+            "doc_hash": "24e0e0b8bca2f3674fef46b7b9408c4a5c1d86159569d67bcef13daf9535798c"
+        },
+        "f20c3c86-50bf-4b5f-ad3a-63c9c37b13d1": {
+            "doc_hash": "6cdbd2ff79d0ae05a8b628ac2411bdb8cb74c50acf772a55c3830f163aa3dc2b"
+        },
+        "9cd6bb64-97ba-43e7-89a9-5f133e7a073a": {
+            "doc_hash": "888b9f987a2bd5ae63c599de9f7b5a53a9629c3f5e369b8736afbc667b2e88e1"
+        },
+        "1605284c-d445-421a-aa84-d812878ee213": {
+            "doc_hash": "dbabcabe4a317da441408a16996ed9e2d7586d39c1a3f9e64d6895f9d970309c"
+        },
+        "40cb2fbc-b40e-477c-b01f-fa67e2269543": {
+            "doc_hash": "b3c9e123faccf8fce817bee8e5083ec0730570e2299efcd66d998bb0c40674e3",
+            "ref_doc_id": "d702c946-1fda-429f-a0f7-ab4079ebfc24"
+        },
+        "519aaee9-546b-423f-87fa-c565faec977e": {
+            "doc_hash": "4bd772d081c9df0317e2897bc65825811a6b34945e9199972725ac02bdbcaf19",
+            "ref_doc_id": "3bbd57bc-133d-4804-8829-7364ffbd286f"
+        },
+        "cac36f88-e46b-43a7-aafd-21c441c9cd34": {
+            "doc_hash": "4c70c2bbd3cebdbd8b7cc0366d7c5597b5da6fae98b56bbe37fb721662eae1aa",
+            "ref_doc_id": "b475633e-3203-4ee3-9d4c-c1c705d38294"
+        },
+        "8f42eaf4-fac0-41ec-b150-c9b54be5fc96": {
+            "doc_hash": "d4062692eeb1d26eca742a9140207b214e608de7b0b26de388d6a6cef6e8cb98",
+            "ref_doc_id": "35e4751b-0fa4-439f-a569-f8907b94d5db"
+        },
+        "a6a9d8d9-2852-40e2-9461-74a0eaddd883": {
+            "doc_hash": "61f562e35f722c074c05a7d8daeb6eb5369583c7c3aa790ed01b727e0d318434",
+            "ref_doc_id": "571b9678-9d8c-4ae4-a144-65cb115bb2cf"
+        },
+        "8dbd6147-8857-4a89-8bd4-f2526732ba73": {
+            "doc_hash": "dca0e7a7009020010ce7c967c4b3085aa10b709486015ee7c252c8998b9ad4b7",
+            "ref_doc_id": "07b9001f-cca9-45da-98f6-41f3ac87d561"
+        },
+        "455a2447-f529-4675-94fe-b9f87d858da9": {
+            "doc_hash": "5784d938f410ae716efc1a3dbd155d7f6e3e9960129abf4499029d4f5992252c",
+            "ref_doc_id": "edb88d44-d8b0-4d4c-b460-6652290cf124"
+        },
+        "88ce2758-7d1b-4c94-b2b4-52da467074cd": {
+            "doc_hash": "25a22e99de0d65f94d43aa0d40c664b099ba3b8032de79f3ad5f36a3b004e461",
+            "ref_doc_id": "66295343-3a33-4a26-8e4a-f7b05f2c567e"
+        },
+        "7b81e028-60a7-4f65-b2cc-826fb7369cf6": {
+            "doc_hash": "c390e833dc2d74cab80528d4f4bfd375d77e7a3303447d434435e929fb55d37c",
+            "ref_doc_id": "48321630-99e7-464d-979d-87b5cc5c7f55"
+        },
+        "01cd1c6b-35b2-4244-adac-f94db9b23910": {
+            "doc_hash": "ed912c204900d5fb1141703cba90c2edaf5c9aac5a622c43d19ee2d6588cc1e8",
+            "ref_doc_id": "73a5a6f9-478e-4aaa-aa6c-ff5209d09510"
+        },
+        "42942815-1ab0-410f-8e6f-b7a12e9d4032": {
+            "doc_hash": "cf00f1a5c6f01c709d8adf34918373e69d282b2fe598bf362f5336523e465f56",
+            "ref_doc_id": "43327042-44c8-4358-91a0-289b5a64fad4"
+        },
+        "faf5be71-16e0-4694-bed6-4a0bf8514c45": {
+            "doc_hash": "50a1160794bddfcf1b134d31e5836f3ec96baae382d9125f664f4ce65fa71dd9",
+            "ref_doc_id": "0f04b3e9-006e-47bd-b68d-3d98274cc3dd"
+        },
+        "0dbaf520-3772-4177-b5be-6505ae0d7a3a": {
+            "doc_hash": "5b44ca24e2a370b0a4dfc95ce9df7e678249cdb98275fa87e6b86e6f38413ebd",
+            "ref_doc_id": "fe2ef1f0-7b8c-47a3-8817-29cab20ac02f"
+        },
+        "10943b95-1b9e-4688-ac65-0209b4d8ec8e": {
+            "doc_hash": "65630bdf7414b9669bff064bb0276d93aa02a6b00524d8ed7fd9f1312579ea1f",
+            "ref_doc_id": "7633b43d-f511-4bfc-943e-d3eef0a4ed17"
+        },
+        "1e427952-272f-492d-b76f-f8892a68dbc3": {
+            "doc_hash": "31b75d32e1011f4daccfc0b90c6ed65ad53912a21f0dde5e0724c07f82b08d20",
+            "ref_doc_id": "0a5662d6-3a4a-40dd-9872-1b259735f43c"
+        },
+        "88e39575-8667-4962-8c1f-e95f2f5a1ef2": {
+            "doc_hash": "63a64f0b715630035e7fdabc3078c4a7061a65955d0138542e25729de6ab553e",
+            "ref_doc_id": "cdf88046-5aec-4b72-9b17-3af6691775de"
+        },
+        "17bb234f-772e-4458-bf76-4149f16ddf65": {
+            "doc_hash": "09324c464555b612a7947c1028980ca92ea6377e7db94ee27396b53bc622cca1",
+            "ref_doc_id": "4176fc5d-189d-4cd4-9507-79818be1af3e"
+        },
+        "7ec7a60b-7a92-49dc-aaaf-c062d67abc10": {
+            "doc_hash": "54b7b9b600fcea337905404ffe37927d38cf7c6216ff2cb27124f03d98518a2f",
+            "ref_doc_id": "9febc672-56c2-438e-96d2-2ba69bfefc5e"
+        },
+        "8f87d190-2a42-4d14-b79e-c39060e8e529": {
+            "doc_hash": "0856cb5d33e7058e7d0b74e4a9093808716000a05d5cf42c696000a4d7d71954",
+            "ref_doc_id": "44cd82b4-48f0-4b88-aad0-0efe650f323b"
+        },
+        "1657c5cd-b1de-4e6c-9415-30b39975c822": {
+            "doc_hash": "3b7ce4d690c351ca68cca1318f93032322aefd421f386303d57dd0efc2d5c563",
+            "ref_doc_id": "b1798aa8-57cc-44f1-b167-ff3576096b10"
+        },
+        "fe293f49-aa60-46f8-bdf5-7fd0b44d3a38": {
+            "doc_hash": "9cc0046543dd264ae42b070b270352abd4944233224313b8a02afd296b3497ac",
+            "ref_doc_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd"
+        },
+        "e325f399-0fe0-465b-93d5-e3a235879a06": {
+            "doc_hash": "092658a38f4eed81643d331adb7ae38d99017f8b8c95eefb9906daa3dc080549",
+            "ref_doc_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd"
+        },
+        "c4a7da8c-6d71-4c02-bab7-69ef7c09ca69": {
+            "doc_hash": "b840120d7a972f77fb3ae7e158a1d52ad864ac4f3a445d6bba196845c0c95534",
+            "ref_doc_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd"
+        },
+        "52303e9f-84ec-45ae-a5cb-e6e1a3fd5eaf": {
+            "doc_hash": "ed3286e67fbd54d31d8860d39a09788caf0221576062691edcef40b8ce640516",
+            "ref_doc_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd"
+        },
+        "3c799bc0-ecda-45ac-a99d-c47bb63a96ce": {
+            "doc_hash": "0faca46ff7131c80a225ae60f36556fc5a17b4fbfe092a7ea71cf25a27c6c0b2",
+            "ref_doc_id": "a73e2139-6573-4a45-9820-e07528c89f16"
+        },
+        "f671b1c7-1e05-4fa1-8e2a-1c94a5d50b83": {
+            "doc_hash": "7c043b5b97fec024ad901f17a85c93bbe48add1d212e5eb66042c54f1aa62239",
+            "ref_doc_id": "321559d9-1876-4d5f-9413-ff7d8afd826b"
+        },
+        "7047aab1-a726-4812-b0fe-94540eb7256f": {
+            "doc_hash": "bb007e7c504ea0a7d4108c0ebf6fa2eaf56a0a6f5bdf5466ce652eba7e6fbdb4",
+            "ref_doc_id": "8f88c66a-b738-43f5-bc98-51559b5e20ee"
+        },
+        "c46bb70c-ae36-4dc9-9dbf-c505197de630": {
+            "doc_hash": "892af12b4174e16e72d4cdff765cc460c2055549dbd8eaff12aa1bbc3b72c2f7",
+            "ref_doc_id": "be5879ee-0b45-485b-b2e4-09b34c038dca"
+        },
+        "3802c49d-5640-428d-b86b-279354aa93a1": {
+            "doc_hash": "539385e3321cc0599ddebb4b65b2759e3f3a8c753a9b202672b0b12abcc565d6",
+            "ref_doc_id": "657d2866-dfe0-4087-aee6-fb4312eb1c61"
+        },
+        "c6c19244-8748-4e2c-857d-ee7afb679c7a": {
+            "doc_hash": "0f2dc534b58b8c662b7afebec9fe4b66200d0a7693536c29150965e70a372e50",
+            "ref_doc_id": "8ffa95cd-8d03-4b28-8f3d-577884628a2d"
+        },
+        "432b035d-ed2d-4283-a9e3-d8bda21ba301": {
+            "doc_hash": "6cdbd2ff79d0ae05a8b628ac2411bdb8cb74c50acf772a55c3830f163aa3dc2b",
+            "ref_doc_id": "f20c3c86-50bf-4b5f-ad3a-63c9c37b13d1"
+        },
+        "81abb110-30a3-4f32-a5db-93f4184fbeb5": {
+            "doc_hash": "c1129ef2214201f71672bcc2f649efa3a1505ed8fad684ee9fa11f6ae1b88a19",
+            "ref_doc_id": "9cd6bb64-97ba-43e7-89a9-5f133e7a073a"
+        },
+        "2e0e1470-5c9c-4a1d-85b8-9b4420d14e8d": {
+            "doc_hash": "dbabcabe4a317da441408a16996ed9e2d7586d39c1a3f9e64d6895f9d970309c",
+            "ref_doc_id": "1605284c-d445-421a-aa84-d812878ee213"
+        }
+    },
+    "docstore/data": {
+        "40cb2fbc-b40e-477c-b01f-fa67e2269543": {
+            "__data__": {
+                "id_": "40cb2fbc-b40e-477c-b01f-fa67e2269543",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "1",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "d702c946-1fda-429f-a0f7-ab4079ebfc24",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "b3c9e123faccf8fce817bee8e5083ec0730570e2299efcd66d998bb0c40674e3",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "内容公司各部⻔职责与关键⻆⾊联系⽅式 公司定位 我们的公司致⼒于推动教育的数字化转型，专注于开发富有创意和互动性的在线学习平台与⼯具。 我们结合最新的教育理论与技术创新， 旨在提升学习者的参与度和学习效果。 通过提供个性化学习体验， 我们希望满⾜不同年龄段和背景的学习需求， 助⼒教育公平和终⾝学习。我们的使命是使知识获取更加便捷、⾼效，让每个⼈都能充分发挥潜⼒。 各部⻔介绍 教研部：教育课程研究设计 课程开发部：技术内容需求开发 教材编写部：教材、练习题等内容汇编与修订 评估部：内容质量质检 市场部：市场活动营销 ⼈⼒资源部：⼈⼒资源管理 IT部：IT技术⽀撑 绩效管理部：⼈员绩效考核设计 各部⻔关键⻆⾊联系⼈ 部⻔ 员⼯姓名 员⼯主管 ⼯位 ⼯号 岗位 职位 电话 邮箱 ⼯作职责 教研部 张伟 李琳 A101 001 内容设计 教研专员 13800000001 zhangwei@educompany.com 负责教育课程的研究与开发，分",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 425,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "519aaee9-546b-423f-87fa-c565faec977e": {
+            "__data__": {
+                "id_": "519aaee9-546b-423f-87fa-c565faec977e",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "2",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "3bbd57bc-133d-4804-8829-7364ffbd286f",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "2",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "4bd772d081c9df0317e2897bc65825811a6b34945e9199972725ac02bdbcaf19",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "析教学效果，整理教案，协助课程优化，以及参与教育项⽬的评估和反馈。 \n教研部 王芳 李琳 A102 002 内容设计 教研专员 13800000002 wangfang@educompany.com 负责制定学科教学⽅案，策划教学",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 115,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "cac36f88-e46b-43a7-aafd-21c441c9cd34": {
+            "__data__": {
+                "id_": "cac36f88-e46b-43a7-aafd-21c441c9cd34",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "3",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "b475633e-3203-4ee3-9d4c-c1c705d38294",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "3",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "4c70c2bbd3cebdbd8b7cc0366d7c5597b5da6fae98b56bbe37fb721662eae1aa",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "活动，编写教案，收集学⽣反馈，参与课程改进会议，提供专业意⻅。 \n教研部 刘杰 李琳 A103 003 内容设计 教研专员 13800000003 liujie@educompany.com 组织教研活动，分析教学成果，开展学术研",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 115,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "8f42eaf4-fac0-41ec-b150-c9b54be5fc96": {
+            "__data__": {
+                "id_": "8f42eaf4-fac0-41ec-b150-c9b54be5fc96",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "4",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "35e4751b-0fa4-439f-a569-f8907b94d5db",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "4",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "d4062692eeb1d26eca742a9140207b214e608de7b0b26de388d6a6cef6e8cb98",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "究，协助撰写研究报告，输出有效教学策略，提升课程品质。 \n课程开发部 李丽 王强 B201 007 内容开发 课程开发专员 13800000007 lili@educompany.com 设计并开发教育课程，撰写课程⼤纲，组织课程试",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 116,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "a6a9d8d9-2852-40e2-9461-74a0eaddd883": {
+            "__data__": {
+                "id_": "a6a9d8d9-2852-40e2-9461-74a0eaddd883",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "5",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "571b9678-9d8c-4ae4-a144-65cb115bb2cf",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "5",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "61f562e35f722c074c05a7d8daeb6eb5369583c7c3aa790ed01b727e0d318434",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "点，分析市场需求，调整课程内容，以适应学习者的需求和反馈。 \n课程开发部 张伟 王强 B202 008 内容开发 课程开发专员 13800000008 zhangwei01@educompany.com 精细化课程设计，确保课程符合国家教育标",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 121,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "8dbd6147-8857-4a89-8bd4-f2526732ba73": {
+            "__data__": {
+                "id_": "8dbd6147-8857-4a89-8bd4-f2526732ba73",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "6",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "07b9001f-cca9-45da-98f6-41f3ac87d561",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "6",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "dca0e7a7009020010ce7c967c4b3085aa10b709486015ee7c252c8998b9ad4b7",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "准，撰写教具使⽤说明，协助教研部进⾏课程的前期调研与评估。 \n教材编写部 林涛 陈刚 C303 014 内容开发 教材编写专员 13800000014 linta@educompany.com 负责教材配套习题的出题⼯作，进⾏习题",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 115,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "455a2447-f529-4675-94fe-b9f87d858da9": {
+            "__data__": {
+                "id_": "455a2447-f529-4675-94fe-b9f87d858da9",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "7",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "edb88d44-d8b0-4d4c-b460-6652290cf124",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "7",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "5784d938f410ae716efc1a3dbd155d7f6e3e9960129abf4499029d4f5992252c",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "难易度分析与调整，开发辅助学习⼯具，参与教材整体编排与结构设计。 教材编写部 冯雪 陈刚 C304 015 内容开发 教材编写专员 13800000015 fengxue@educompany.com 主持教材的市场调研，分析不同阶",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 116,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "88ce2758-7d1b-4c94-b2b4-52da467074cd": {
+            "__data__": {
+                "id_": "88ce2758-7d1b-4c94-b2b4-52da467074cd",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "8",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "66295343-3a33-4a26-8e4a-f7b05f2c567e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "8",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "25a22e99de0d65f94d43aa0d40c664b099ba3b8032de79f3ad5f36a3b004e461",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "段学⽣的学习需求，撰写教材使⽤报告，积极参与教材的试⽤和反馈收集，促进优化迭代。 评估部 邓琪 张晓 D405 021 内容质检 评估专员 13800000021 dengqi@educompany.com 协助评估项⽬的",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 111,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7b81e028-60a7-4f65-b2cc-826fb7369cf6": {
+            "__data__": {
+                "id_": "7b81e028-60a7-4f65-b2cc-826fb7369cf6",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "9",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "48321630-99e7-464d-979d-87b5cc5c7f55",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "9",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "929faedd54a057a422c4478239614c9448ae8ae56621886e5b565061ef387e45",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "相关⽂档整理，参与评估结果的反馈会议，提供数据⽀持，监督评估实施过程，确保评估的全⾯性与公正性。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 48,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "01cd1c6b-35b2-4244-adac-f94db9b23910": {
+            "__data__": {
+                "id_": "01cd1c6b-35b2-4244-adac-f94db9b23910",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "10",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "73a5a6f9-478e-4aaa-aa6c-ff5209d09510",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "10",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "30d1de5455dab0f2e351f22ae191a82b4f723cd4a884c064dd76094dc26bf2bb",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "市场部 郑刚 李明 E504 025 市场营销 市场推⼴专员 13800000025 zhenggang@educompany.com 开展市场竞品分析，收集⾏业动态信息，提供市场预测，协助制定销售⽬标和策略，定期撰写市场研究报告。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 116,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "42942815-1ab0-410f-8e6f-b7a12e9d4032": {
+            "__data__": {
+                "id_": "42942815-1ab0-410f-8e6f-b7a12e9d4032",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "11",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "43327042-44c8-4358-91a0-289b5a64fad4",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "11",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "cf00f1a5c6f01c709d8adf34918373e69d282b2fe598bf362f5336523e465f56",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "⼈⼒资源部 胡楠 ⻢婷 F603 028 ⼈⼒资源 ⼈⼒资源专员 13800000028 hunan@educompany.com 制定员⼯职业发展路径，收集岗位需要的专业技能与知识，定期评估员⼯的职业发展现状，协助制定个性化",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 113,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "faf5be71-16e0-4694-bed6-4a0bf8514c45": {
+            "__data__": {
+                "id_": "faf5be71-16e0-4694-bed6-4a0bf8514c45",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "12",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0f04b3e9-006e-47bd-b68d-3d98274cc3dd",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "12",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "50a1160794bddfcf1b134d31e5836f3ec96baae382d9125f664f4ce65fa71dd9",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "职业发展计划。 \n⼈⼒资源部 熊伟 ⻢婷 F604 029 ⼈⼒资源 ⼈⼒资源专员 13800000029 xiongwei@educompany.com 负责公司各项⼈⼒资源政策的实施与执⾏，分析⼈⼒资源数据以优化资源配置，提供决策",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 117,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "0dbaf520-3772-4177-b5be-6505ae0d7a3a": {
+            "__data__": {
+                "id_": "0dbaf520-3772-4177-b5be-6505ae0d7a3a",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "13",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "fe2ef1f0-7b8c-47a3-8817-29cab20ac02f",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "13",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "5b44ca24e2a370b0a4dfc95ce9df7e678249cdb98275fa87e6b86e6f38413ebd",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "⽀持，确保⼈⼒资源部⻔顺畅运作。 \n⾏政部 黎晗 蔡静 G704 033 ⾏政 ⾏政专员 13800000033 lih@educompany.com 负责采购办公设备与耗材，登记与管理公司固定资产，协助实施绩效考",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 107,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "10943b95-1b9e-4688-ac65-0209b4d8ec8e": {
+            "__data__": {
+                "id_": "10943b95-1b9e-4688-ac65-0209b4d8ec8e",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "14",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "7633b43d-f511-4bfc-943e-d3eef0a4ed17",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "14",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "65630bdf7414b9669bff064bb0276d93aa02a6b00524d8ed7fd9f1312579ea1f",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "核，提供⾏政管理与协调⽀持，优化⾏政⼯作流程。 \n⾏政部 秦⻜ 蔡静 G705 034 ⾏政 ⾏政专员 13800000034 qinf@educompany.com 维护公司档案与信息系统，负责公司通知及公告的发布，",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 109,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "1e427952-272f-492d-b76f-f8892a68dbc3": {
+            "__data__": {
+                "id_": "1e427952-272f-492d-b76f-f8892a68dbc3",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "15",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0a5662d6-3a4a-40dd-9872-1b259735f43c",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "15",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "31b75d32e1011f4daccfc0b90c6ed65ad53912a21f0dde5e0724c07f82b08d20",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "组织公司活动的前期准备与后期评估，确保公司各项⼯作的顺利进⾏。 \nIT部 张伟 ⻢云 H802 036 IT⽀撑 IT专员 13800000036 zhangwei036@educompany.com 进⾏公司⽹络及硬件设备的配置",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 115,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n"
+            },
+            "__type__": "1"
+        },
+        "88e39575-8667-4962-8c1f-e95f2f5a1ef2": {
+            "__data__": {
+                "id_": "88e39575-8667-4962-8c1f-e95f2f5a1ef2",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "16",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "cdf88046-5aec-4b72-9b17-3af6691775de",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "16",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "63a64f0b715630035e7fdabc3078c4a7061a65955d0138542e25729de6ab553e",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "与维护，监控系统运⾏状态，及时处理技术问题与故障，提供技术⽀持及⼯具使⽤培训。 IT部 谢宇 ⻢云 H803 037 IT⽀撑 IT专员 13800000037 xieyu@educompany.com ⽀持公司软件系统",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 110,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "17bb234f-772e-4458-bf76-4149f16ddf65": {
+            "__data__": {
+                "id_": "17bb234f-772e-4458-bf76-4149f16ddf65",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "17",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "4176fc5d-189d-4cd4-9507-79818be1af3e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "17",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "09324c464555b612a7947c1028980ca92ea6377e7db94ee27396b53bc622cca1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "的开发与更新，参与IT项⽬的计划与实施，撰写技术⽂档与使⽤说明，确保信息技术的安全性与有效性。 绩朱李I901 04⼈绩1380000004zhun@educompany.com 负",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 91,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7ec7a60b-7a92-49dc-aaaf-c062d67abc10": {
+            "__data__": {
+                "id_": "7ec7a60b-7a92-49dc-aaaf-c062d67abc10",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "18",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "9febc672-56c2-438e-96d2-2ba69bfefc5e",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "18",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "54b7b9b600fcea337905404ffe37927d38cf7c6216ff2cb27124f03d98518a2f",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "效管理部 南 ⻜ 0 ⼒资源 效专员 0 责制定绩效考核体系，组织绩效评估的实施与反馈，撰写评估报告，分析绩效数据以提出优化建议，提供决策",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 69,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "8f87d190-2a42-4d14-b79e-c39060e8e529": {
+            "__data__": {
+                "id_": "8f87d190-2a42-4d14-b79e-c39060e8e529",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "19",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "44cd82b4-48f0-4b88-aad0-0efe650f323b",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "19",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "0856cb5d33e7058e7d0b74e4a9093808716000a05d5cf42c696000a4d7d71954",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "⽀持。 \n绩效管理部 韩杉 李⻜ I902 041 ⼈⼒资源 绩效专员 13800000041 hanshan@educompany.com 建⽴并维护员⼯绩效档案，定期组织绩效评价会议，协调各部⻔反馈，制定考核流程与标准，确保绩效",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 116,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "1657c5cd-b1de-4e6c-9415-30b39975c822": {
+            "__data__": {
+                "id_": "1657c5cd-b1de-4e6c-9415-30b39975c822",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "20",
+                    "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 199353,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "b1798aa8-57cc-44f1-b167-ff3576096b10",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "20",
+                            "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 199353,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "9866016889f43fd3cdc401e60c240842bd07ade8e9715516e7468ec67c145a9b",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "考核的有效执⾏与公正性。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 12,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "fe293f49-aa60-46f8-bdf5-7fd0b44d3a38": {
+            "__data__": {
+                "id_": "fe293f49-aa60-46f8-bdf5-7fd0b44d3a38",
+                "embedding": null,
+                "metadata": {
+                    "file_name": "内容开发工程师岗位指导说明书.docx",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "file_size": 22966,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd",
+                        "node_type": "4",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "c73494139228324ecddf4e8593b41e6f48157740a66406e4b9ab9c1ad1af48fe",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "e325f399-0fe0-465b-93d5-e3a235879a06",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "039e84b32af244e6110e5f8acd170b24f0d47d4be8eb8bb22262e9958101ba42",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "内容开发工程师\n\n岗位类型\n\n大类：技术大类\n\n细分类型：综合技术岗位\n\n工作职责\n\n核心职责\n\n结合教育理论与技术实践，通过高质量的内容创造支持学习者的成长与发展。\n\n详细职责\n\n1. 内容研究与分析\n\n对最新的教育技术趋势、学习理论和市场需求进行深入研究。这包括分析竞争对手的产品，评估现有教育资源的有效性，并探索如何将新兴技术（如人工智能、虚拟现实等）整合进我们的教育内容中。通过持续的市场调研，我能够确保我们的内容在技术上始终处于前沿，并能够满足教育者和学习者的真实需求。\n\n2. 教材和课程开发\n\n根据研究和市场反馈，我将设计和开发高质量的教育教材和课程。这包括撰写教学大纲、制作课件、设计评估工具等。我的职责还包括确保内容符合教育标准和学习目标，以提供全面的学习体验。同时，我会考虑不同学习者的需求，确保内容能够适应各种学习风格和水平。\n\n3. 内容优化与更新\n\n在内容开发过程中，我会不断优化已有的教育材料。通过跟踪学习者的反馈和评价，我能够识别出内容中的潜在问题，并及时进行调整。此外，我也会定期更新材料，以反映新的研究成果、技术进步和市场变化。保持内容的时效性和相关性是我的重要任务之一。\n\n4. 跨部门合作\n\n我将与教学设计师、教育心理学家、技术团队以及市场营销人员等多个部门紧密合作。通过协同工作，我能确保内容的技术实施过程顺利进行，并有效传达给目标受众。与团队成员之间的沟通协调，将帮助我们共同创造出兼具教育价值和市场竞争力的产品。\n\n5. 教育技术平台的应用\n\n在工作中，我还需要与各种教育技术平台进行对接，确保开发的内容可以在不同平台上自如应用。我会熟悉各类学习管理系统（LMS）、移动学习应用以及其他在线教育工具的功能，以便为内容的发布和推广提供支持。这意味着我需要不断学习这些平台的最新功能和用户体验设计。\n\n6.",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 773,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "e325f399-0fe0-465b-93d5-e3a235879a06": {
+            "__data__": {
+                "id_": "e325f399-0fe0-465b-93d5-e3a235879a06",
+                "embedding": null,
+                "metadata": {
+                    "file_name": "内容开发工程师岗位指导说明书.docx",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "file_size": 22966,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd",
+                        "node_type": "4",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "c73494139228324ecddf4e8593b41e6f48157740a66406e4b9ab9c1ad1af48fe",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "fe293f49-aa60-46f8-bdf5-7fd0b44d3a38",
+                        "node_type": "1",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "9cc0046543dd264ae42b070b270352abd4944233224313b8a02afd296b3497ac",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "c4a7da8c-6d71-4c02-bab7-69ef7c09ca69",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "62879bf2f610c380f19777704601766e2eb274e6f69fc53c73f020a75a188306",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "教育技术平台的应用\n\n在工作中，我还需要与各种教育技术平台进行对接，确保开发的内容可以在不同平台上自如应用。我会熟悉各类学习管理系统（LMS）、移动学习应用以及其他在线教育工具的功能，以便为内容的发布和推广提供支持。这意味着我需要不断学习这些平台的最新功能和用户体验设计。\n\n6. 教师培训与支持\n\n为了确保最终用户能够有效使用我们提供的教育内容，我将参与制定教师培训计划，设计培训材料，并为教师提供持续的技术支持。我会通过组织线上或线下的培训工作坊，让教师熟悉内容的使用方法，以及如何结合他们的教学实践来最大化学习效果。\n\n7. 数据分析与评估\n\n最后，我会定期进行数据分析，以评估我们的教育内容的有效性与影响力。通过分析学习者的学习数据、反馈和成绩，我可以直接了解内容的实际效果，并为未来的改进提供有力依据。这种基于数据的决策过程将确保我们的教育内容始终与学习者的需求保持一致。\n\n\n\n工作流程指导\n\n需求分析\n\n使用工具：\n\n项目管理软件（Jira、Trello）\n\n文档编辑器（Google Docs、Notion）\n\n协作工具（Slack、Microsoft Teams）\n\n注意事项：\n\n确保需求明确，遵循SMART原则（具体、可测量、可实现、相关性、时限）。\n\n与相关利益相关者进行充分沟通，确认需求的优先级。\n\n收集用户反馈和需求，确保满足目标受众的期望。\n\n操作指导：\n\n召开需求沟通会议，记录会议纪要。\n\n形成需求文档，描述每个功能或内容的细节。\n\n与团队分享需求文档，收集反馈并进行调整。\n\n\n\n开发\n\n\n\n使用工具：\n\n内容创作工具（Markdown Editor、Adobe Creative Suite）\n\n版本控制系统（Git）\n\n教育平台（Moodle、Blackboard）\n\n注意事项：\n\n确保内容符合教育标准和教学目标。\n\n使用规范的术语和格式，保持内容一致性。\n\n定期备份开发中的内容，以防数据丢失。\n\n操作指导：\n\n根据需求文档创建内容框架。\n\n编写、设计或录制相关教育内容。\n\n定期在版本控制系统中提交更新，记录更改。\n\n\n\n评审\n\n使用工具：\n\n内容审阅平台（Google Docs 审阅功能）\n\n视频和音频评审工具（Frame.io）\n\n反馈收集工具（SurveyMonkey）\n\n注意事项：\n\n确保有多位审阅者参与，提供不同视角的反馈。\n\n建立明确的评审标准，方便审阅者进行评价。\n\n记录审阅意见，并及时跟进更改。\n\n操作指导：\n\n共享待评审的内容，设定审阅期限。\n\n汇总反馈，进行分析，识别共性问题。\n\n修改内容，确保所有反馈都被有效处理。",
+                "mimetype": "text/plain",
+                "start_char_idx": 633,
+                "end_char_idx": 1729,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n"
+            },
+            "__type__": "1"
+        },
+        "c4a7da8c-6d71-4c02-bab7-69ef7c09ca69": {
+            "__data__": {
+                "id_": "c4a7da8c-6d71-4c02-bab7-69ef7c09ca69",
+                "embedding": null,
+                "metadata": {
+                    "file_name": "内容开发工程师岗位指导说明书.docx",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "file_size": 22966,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd",
+                        "node_type": "4",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "c73494139228324ecddf4e8593b41e6f48157740a66406e4b9ab9c1ad1af48fe",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "e325f399-0fe0-465b-93d5-e3a235879a06",
+                        "node_type": "1",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "092658a38f4eed81643d331adb7ae38d99017f8b8c95eefb9906daa3dc080549",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "3": {
+                        "node_id": "52303e9f-84ec-45ae-a5cb-e6e1a3fd5eaf",
+                        "node_type": "1",
+                        "metadata": {},
+                        "hash": "81f6866d678b2cf3c70cfefd1e88e3e8d580d1b643c20728b08dedea1548eee3",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "评审\n\n使用工具：\n\n内容审阅平台（Google Docs 审阅功能）\n\n视频和音频评审工具（Frame.io）\n\n反馈收集工具（SurveyMonkey）\n\n注意事项：\n\n确保有多位审阅者参与，提供不同视角的反馈。\n\n建立明确的评审标准，方便审阅者进行评价。\n\n记录审阅意见，并及时跟进更改。\n\n操作指导：\n\n共享待评审的内容，设定审阅期限。\n\n汇总反馈，进行分析，识别共性问题。\n\n修改内容，确保所有反馈都被有效处理。\n\n\n\n发布\n\n使用工具：\n\n内容管理系统（WordPress、Drupal）\n\n社交媒体管理工具（Hootsuite）\n\n邮件营销工具（Mailchimp）\n\n注意事项：\n\n检查所有链接、视频和图片的可用性。\n\n确认版权和使用权限，确保版权合规。\n\n定制发布策略，选择合适的时间与平台。\n\n操作指导：\n\n在内容管理系统中输入最终版本，设置发布参数。\n\n进行最终审查，确保无遗漏和错误。\n\n执行发布操作，并监测发布状态。\n\n\n\n上线\n\n使用工具：\n\nIT自研监控工具\n\n注意事项：\n\n确保IT团队准备好应对上线期间的任何问题。\n\n监控上线后的 conteúdo 响应，及时处理用户反馈。\n\n定期更新内容，保持信息的时效性和相关性。\n\n操作指导：\n\n上线异常问题及时通知所有团队成员。\n\n上线后进行长时间监测，确保系统正常运行。\n\n收集和分析用户使用数据，优化后续内容开发策略。\n\n上线常见异常现象处理：\n\n\t服务器告警：\n\n\t**现象**：\n\n\n\n  ```\n\n  [WARNING] [ResourceUtilization] CPU usage exceeds 90% on server: content-server-01\n\n  [ERROR] [ResourceUtilization] Insufficient memory available. Current usage: 95%. Availability critical!\n\n  ```\n\n\n\n- **处理方式**：\n\n  1. 登录到服务器：\n\n     ```bash\n\n     ssh user@content-server-01\n\n     ```\n\n  2. 查看当前进程的CPU和内存使用情况：\n\n     ```bash\n\n     top\n\n     ```\n\n  3. 找到占用资源较高的进程并进行终止（根据需要选择）：\n\n     ```bash\n\n     kill -9 <pid>\n\n     ```\n\n  4. 如果资源仍不足，考虑扩展服务器容量或优化应用。\n\n\n\n---\n\n\n\n#### 2. k8s日志告警\n\n- **现象**：\n\n  ```\n\n  [ERROR] [PodMonitoring] pod \"content-pod\" in namespace \"content-namespace\" is in crash loop back-off\n\n  E1020 12:00:00.000000 1 pod.go:123] Error: back-off 5m0s restarting failed container\n\n  ```\n\n\n\n- **处理方式**：\n\n  1. 查看出问题的pod日志：\n\n     ```bash\n\n     kubectl logs content-pod -n content-namespace\n\n     ```\n\n  2. 检查pod状态：\n\n     ```bash\n\n     kubectl describe pod content-pod -n content-namespace\n\n     ```\n\n  3. 如果需要，可以删除并重启pod：\n\n     ```bash\n\n     kubectl delete pod content-pod -n content-namespace\n\n     ```\n\n\n\n---\n\n\n\n#### 3. 监控平台报警\n\n- **现象**：\n\n  ![监控平台报警](https://via.placeholder.com/600x400.png?text=%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0%E6%8A%A5%E8%AD%A6:+CPU%E8%BF%9B%E5%BA%A6%E9%99%90%E5%88%B6%E8%B5%A0%E6%95%8C)",
+                "mimetype": "text/plain",
+                "start_char_idx": 1518,
+                "end_char_idx": 3375,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "52303e9f-84ec-45ae-a5cb-e6e1a3fd5eaf": {
+            "__data__": {
+                "id_": "52303e9f-84ec-45ae-a5cb-e6e1a3fd5eaf",
+                "embedding": null,
+                "metadata": {
+                    "file_name": "内容开发工程师岗位指导说明书.docx",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "file_size": 22966,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd",
+                        "node_type": "4",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "c73494139228324ecddf4e8593b41e6f48157740a66406e4b9ab9c1ad1af48fe",
+                        "class_name": "RelatedNodeInfo"
+                    },
+                    "2": {
+                        "node_id": "c4a7da8c-6d71-4c02-bab7-69ef7c09ca69",
+                        "node_type": "1",
+                        "metadata": {
+                            "file_name": "内容开发工程师岗位指导说明书.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 22966,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "b840120d7a972f77fb3ae7e158a1d52ad864ac4f3a445d6bba196845c0c95534",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "---\n\n\n\n#### 3. 监控平台报警\n\n- **现象**：\n\n  ![监控平台报警](https://via.placeholder.com/600x400.png?text=%E7%9B%91%E6%8E%A7%E5%B9%B3%E5%8F%B0%E6%8A%A5%E8%AD%A6:+CPU%E8%BF%9B%E5%BA%A6%E9%99%90%E5%88%B6%E8%B5%A0%E6%95%8C)\n\n\n\n- **处理方式**：\n\n  1. 登录监控平台，查看具体的报警信息。\n\n  2. 确认是哪个服务导致的高CPU使用。\n\n  3. 针对高CPU的服务进行优化，可以考虑：\n\n     - 调整服务配置。\n\n     - 增加服务实例数量。\n\n     - 进行性能调优或重构代码。\n\n     \n\n以上处理步骤有助于迅速恢复内容平台的正常运行，减少对用户体验的影响。",
+                "mimetype": "text/plain",
+                "start_char_idx": 3170,
+                "end_char_idx": 3562,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "3c799bc0-ecda-45ac-a99d-c47bb63a96ce": {
+            "__data__": {
+                "id_": "3c799bc0-ecda-45ac-a99d-c47bb63a96ce",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "1",
+                    "file_name": "内容开发工程师岗位指导说明书.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 630120,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "a73e2139-6573-4a45-9820-e07528c89f16",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "内容开发工程师岗位指导说明书.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 630120,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "f269024e9c5c723d8efde966339d0988a42ff5f3610d16714da90e66fe50abce",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "内容开发⼯程师 岗位类型 ⼤类：技术⼤类 细分类型：综合技术岗位 ⼯作职责 核⼼职责 结合教育理论与技术实践，通过⾼质量的内容创造⽀持学习者的成⻓与发展。 详细职责 1. 内容研究与分析 对最新的教育技术趋势、学习理论和市场需求进⾏深⼊研究。这包括分析竞争对⼿的产品，评估现有教育资源的有效性，并探索如何将新兴技术（如⼈⼯智能、虚拟现实等）整合进我们的教育内容中。 通过持续的市场调研， 我能够确保我们的内容在技术上始终处于前沿， 并能够满⾜教育者和学习者的真实需求。 2. 教材和课程开发 根据研究和市场反馈， 我将设计和开发⾼质量的教育教材和课程。 这包括撰写教学⼤纲、 制作课件、 设计评估⼯具等。 我的职责还包括确保内容符合教育标准和学习⽬标， 以提供全⾯的学习体验。同时，我会考虑不同学习者的需求，确保内容能够适应各种学习⻛格和⽔平。 3. 内容优化与更新 在内容开发过程中， 我会不断优化已有的教育材料。 通过跟踪学习者的反馈和评价， 我能够识别出内容中的潜在问题，并及时进⾏调整。此外，我也会定期更新材料，以反映新的研究成果、技术进步和市场变化。保持内容的时效性和相关性是我的重要任务之⼀。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 502,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "f671b1c7-1e05-4fa1-8e2a-1c94a5d50b83": {
+            "__data__": {
+                "id_": "f671b1c7-1e05-4fa1-8e2a-1c94a5d50b83",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "2",
+                    "file_name": "内容开发工程师岗位指导说明书.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 630120,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "321559d9-1876-4d5f-9413-ff7d8afd826b",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "2",
+                            "file_name": "内容开发工程师岗位指导说明书.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 630120,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "29a167aec8b5f0f5b4ae2753232c333f92cb35beeaea75bbfed0435b7b814805",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "4. 跨部⻔合作 我将与教学设计师、 教育⼼理学家、 技术团队以及市场营销⼈员等多个部⻔紧密合作。 通过协同⼯作， 我能确保内容的技术实施过程顺利进⾏， 并有效传达给⽬标受众。 与团队成员之间的沟通协调，将帮助我们共同创造出兼具教育价值和市场竞争⼒的产品。 5. 教育技术平台的应⽤ 在⼯作中， 我还需要与各种教育技术平台进⾏对接， 确保开发的内容可以在不同平台上⾃如应⽤。我会熟悉各类学习管理系统（LMS）、 移 动 学 习 应 ⽤ 以 及 其 他 在 线 教 育 ⼯ 具 的 功 能 ，以便为内容的发布和推⼴提供⽀持。 这意味着我需要不断学习这些平台的最新功能和⽤户体验设计。 6. 教师培训与⽀持 为了确保最终⽤户能够有效使⽤我们提供的教育内容， 我将参与制定教师培训计划， 设计培训材料， 并为教师提供持续的技术⽀持。 我会通过组织线上或线下的培训⼯作坊， 让教师熟悉内容的使⽤⽅法，以及如何结合他们的教学实践来最⼤化学习效果。 7. 数据分析与评估 最后， 我会定期进⾏数据分析， 以评估我们的教育内容的有效性与影响⼒。 通过分析学习者的学习数据、 反馈和成绩， 我可以直接了解内容的实际效果， 并为未来的改进提供有⼒依据。这种基于数据的决策过程将确保我们的教育内容始终与学习者的需求保持⼀致。  ⼯作流程指导 需求分析 使⽤⼯具： • 项⽬管理软件（Jira、Trello） • ⽂档编辑器（Google Docs、Notion） • 协作⼯具（Slack、Microsoft Teams）",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 651,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "7047aab1-a726-4812-b0fe-94540eb7256f": {
+            "__data__": {
+                "id_": "7047aab1-a726-4812-b0fe-94540eb7256f",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "3",
+                    "file_name": "内容开发工程师岗位指导说明书.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 630120,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "8f88c66a-b738-43f5-bc98-51559b5e20ee",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "3",
+                            "file_name": "内容开发工程师岗位指导说明书.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 630120,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "6c9f5a182f14702e7a433c88e07dad2993e3accc2284b3cd94e28c31436d6da0",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "注意事项： • 确保需求明确，遵循SMART原则（具体、可测量、可实现、相关性、时限） 。 • 与相关利益相关者进⾏充分沟通，确认需求的优先级。 • 收集⽤户反馈和需求，确保满⾜⽬标受众的期望。 操作指导： • 召开需求沟通会议，记录会议纪要。 • 形成需求⽂档，描述每个功能或内容的细节。 • 与团队分享需求⽂档，收集反馈并进⾏调整。  开发  使⽤⼯具： • 内容创作⼯具（Markdown Editor、Adobe Creative Suite） • 版本控制系统（Git） • 教育平台（Moodle、Blackboard） 注意事项： • 确保内容符合教育标准和教学⽬标。 • 使⽤规范的术语和格式，保持内容⼀致性。 • 定期备份开发中的内容，以防数据丢失。 操作指导： • 根据需求⽂档创建内容框架。 • 编写、设计或录制相关教育内容。 • 定期在版本控制系统中提交更新，记录更改。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 397,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "c46bb70c-ae36-4dc9-9dbf-c505197de630": {
+            "__data__": {
+                "id_": "c46bb70c-ae36-4dc9-9dbf-c505197de630",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "4",
+                    "file_name": "内容开发工程师岗位指导说明书.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 630120,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "be5879ee-0b45-485b-b2e4-09b34c038dca",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "4",
+                            "file_name": "内容开发工程师岗位指导说明书.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 630120,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "298dfe3f913ecb8e8c6f77825a2a7652ff062f7d177310a6a7efe34112f21efb",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "评审 使⽤⼯具： • 内容审阅平台（Google Docs 审阅功能） • 视频和⾳频评审⼯具（Frame.io） • 反馈收集⼯具（SurveyMonkey） 注意事项： • 确保有多位审阅者参与，提供不同视⻆的反馈。 • 建⽴明确的评审标准，⽅便审阅者进⾏评价。 • 记录审阅意⻅，并及时跟进更改。 操作指导： • 共享待评审的内容，设定审阅期限。 • 汇总反馈，进⾏分析，识别共性问题。 • 修改内容，确保所有反馈都被有效处理。  发布 使⽤⼯具： • 内容管理系统（WordPress、Drupal） • 社交媒体管理⼯具（Hootsuite） • 邮件营销⼯具（Mailchimp） 注意事项： • 检查所有链接、视频和图⽚的可⽤性。 • 确认版权和使⽤权限，确保版权合规。 • 定制发布策略，选择合适的时间与平台。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 363,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "3802c49d-5640-428d-b86b-279354aa93a1": {
+            "__data__": {
+                "id_": "3802c49d-5640-428d-b86b-279354aa93a1",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "5",
+                    "file_name": "内容开发工程师岗位指导说明书.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 630120,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "657d2866-dfe0-4087-aee6-fb4312eb1c61",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "5",
+                            "file_name": "内容开发工程师岗位指导说明书.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 630120,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "a57bda3850b92e50c85c1c3a748d5e42138ec36ce694a17166ddf171f9cfad98",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "操作指导： • 在内容管理系统中输⼊最终版本，设置发布参数。 • 进⾏最终审查，确保⽆遗漏和错误。 • 执⾏发布操作，并监测发布状态。  上线 使⽤⼯具： • IT⾃研监控⼯具 注意事项： • 确保IT团队准备好应对上线期间的任何问题。 • 监控上线后的 conteúdo 响应，及时处理⽤户反馈。 • 定期更新内容，保持信息的时效性和相关性。 操作指导： • 上线异常问题及时通知所有团队成员。 • 上线后进⾏⻓时间监测，确保系统正常运⾏。 • 收集和分析⽤户使⽤数据，优化后续内容开发策略。 上线常⻅异常现象处理：  服务器告警：  **现象**：      **处理⽅式**：   1. 登录到服务器：      ssh user@content-server-01   2. 查看当前进程的CPU和内存使⽤情况：      top   3. 找到占⽤资源较⾼的进程并进⾏终⽌（根据需要选择） ：      kill -9 <pid>",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 420,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "c6c19244-8748-4e2c-857d-ee7afb679c7a": {
+            "__data__": {
+                "id_": "c6c19244-8748-4e2c-857d-ee7afb679c7a",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "6",
+                    "file_name": "内容开发工程师岗位指导说明书.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 630120,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "8ffa95cd-8d03-4b28-8f3d-577884628a2d",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "6",
+                            "file_name": "内容开发工程师岗位指导说明书.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 630120,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "24e0e0b8bca2f3674fef46b7b9408c4a5c1d86159569d67bcef13daf9535798c",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "4. 如果资源仍不⾜，考虑扩展服务器容量或优化应⽤。  k8s⽇志告警： **现象**：     **处理⽅式**：   1. 查看出问题的pod⽇志：      kubectl logs content-pod -n content-namespace   2. 检查pod状态：      kubectl describe pod content-pod -n content-namespace   3. 如果需要，可以删除并重启pod：      kubectl delete pod content-pod -n content-namespace  监控平台报警： **现象**：  ⾼CPU使⽤率的报警。 **处理⽅式**：   1. 登录监控平台，查看具体的报警信息。   2. 确认是哪个服务导致的⾼CPU使⽤。   3. 针对⾼CPU的服务进⾏优化，可以考虑：      - 调整服务配置。      - 增加服务实例数量。      - 进⾏性能调优或重构代码。       以上处理步骤有助于迅速恢复内容平台的正常运⾏，减少对⽤户体验的影响。",
+                "mimetype": "text/plain",
+                "start_char_idx": 2,
+                "end_char_idx": 485,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "432b035d-ed2d-4283-a9e3-d8bda21ba301": {
+            "__data__": {
+                "id_": "432b035d-ed2d-4283-a9e3-d8bda21ba301",
+                "embedding": null,
+                "metadata": {
+                    "file_name": "测试文档1.docx",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\测试文档1.docx",
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "file_size": 19569,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "f20c3c86-50bf-4b5f-ad3a-63c9c37b13d1",
+                        "node_type": "4",
+                        "metadata": {
+                            "file_name": "测试文档1.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\测试文档1.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 19569,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "6cdbd2ff79d0ae05a8b628ac2411bdb8cb74c50acf772a55c3830f163aa3dc2b",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "内容开发工程师\n\n岗位类型\n\n大类：技术大类\n\n细分类型：综合技术岗位\n\n工作职责\n\n核心职责\n\n结合教育理论与技术实践，通过高质量的内容创造支持学习者的成长与发展。\n\n详细职责\n\n1. 内容研究与分析\n\n对最新的教育技术趋势、学习理论和市场需求进行深入研究。这包括分析竞争对手的产品，评估现有教育资源的有效性，并探索如何将新兴技术（如人工智能、虚拟现实等）整合进我们的教育内容中。通过持续的市场调研，我能够确保我们的内容在技术上始终处于前沿，并能够满足教育者和学习者的真实需求。\n\n2. 教材和课程开发\n\n根据研究和市场反馈，我将设计和开发高质量的教育教材和课程。这包括撰写教学大纲、制作课件、设计评估工具等。我的职责还包括确保内容符合教育标准和学习目标，以提供全面的学习体验。同时，我会考虑不同学习者的需求，确保内容能够适应各种学习风格和水平。\n\n3. 内容优化与更新\n\n在内容开发过程中，我会不断优化已有的教育材料。通过跟踪学习者的反馈和评价，我能够识别出内容中的潜在问题，并及时进行调整。此外，我也会定期更新材料，以反映新的研究成果、技术进步和市场变化。保持内容的时效性和相关性是我的重要任务之一。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 503,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "81abb110-30a3-4f32-a5db-93f4184fbeb5": {
+            "__data__": {
+                "id_": "81abb110-30a3-4f32-a5db-93f4184fbeb5",
+                "embedding": null,
+                "metadata": {
+                    "page_label": "1",
+                    "file_name": "测试文档1.pdf",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\测试文档1.pdf",
+                    "file_type": "application/pdf",
+                    "file_size": 90503,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "9cd6bb64-97ba-43e7-89a9-5f133e7a073a",
+                        "node_type": "4",
+                        "metadata": {
+                            "page_label": "1",
+                            "file_name": "测试文档1.pdf",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\测试文档1.pdf",
+                            "file_type": "application/pdf",
+                            "file_size": 90503,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "888b9f987a2bd5ae63c599de9f7b5a53a9629c3f5e369b8736afbc667b2e88e1",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "内容开发⼯程师 岗位类型 ⼤类：技术⼤类 细分类型：综合技术岗位 ⼯作职责 核⼼职责 结合教育理论与技术实践，通过⾼质量的内容创造⽀持学习者的成⻓与发展。 详细职责 1. 内容研究与分析 对最新的教育技术趋势、学习理论和市场需求进⾏深⼊研究。这包括分析竞争对⼿的产品，评估现有教育资源的有效性，并探索如何将新兴技术（如⼈⼯智能、虚拟现实等）整合进我们的教育内容中。 通过持续的市场调研， 我能够确保我们的内容在技术上始终处于前沿， 并能够满⾜教育者和学习者的真实需求。 2. 教材和课程开发 根据研究和市场反馈， 我将设计和开发⾼质量的教育教材和课程。 这包括撰写教学⼤纲、 制作课件、 设计评估⼯具等。 我的职责还包括确保内容符合教育标准和学习⽬标， 以提供全⾯的学习体验。同时，我会考虑不同学习者的需求，确保内容能够适应各种学习⻛格和⽔平。 3. 内容优化与更新 在内容开发过程中， 我会不断优化已有的教育材料。 通过跟踪学习者的反馈和评价， 我能够识别出内容中的潜在问题，并及时进⾏调整。此外，我也会定期更新材料，以反映新的研究成果、技术进步和市场变化。保持内容的时效性和相关性是我的重要任务之⼀。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 502,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        },
+        "2e0e1470-5c9c-4a1d-85b8-9b4420d14e8d": {
+            "__data__": {
+                "id_": "2e0e1470-5c9c-4a1d-85b8-9b4420d14e8d",
+                "embedding": null,
+                "metadata": {
+                    "file_name": "百炼系列手机产品介绍.docx",
+                    "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\百炼系列手机产品介绍.docx",
+                    "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                    "file_size": 13858,
+                    "creation_date": "2025-12-09",
+                    "last_modified_date": "2025-12-09"
+                },
+                "excluded_embed_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "excluded_llm_metadata_keys": [
+                    "file_name",
+                    "file_type",
+                    "file_size",
+                    "creation_date",
+                    "last_modified_date",
+                    "last_accessed_date"
+                ],
+                "relationships": {
+                    "1": {
+                        "node_id": "1605284c-d445-421a-aa84-d812878ee213",
+                        "node_type": "4",
+                        "metadata": {
+                            "file_name": "百炼系列手机产品介绍.docx",
+                            "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\百炼系列手机产品介绍.docx",
+                            "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                            "file_size": 13858,
+                            "creation_date": "2025-12-09",
+                            "last_modified_date": "2025-12-09"
+                        },
+                        "hash": "dbabcabe4a317da441408a16996ed9e2d7586d39c1a3f9e64d6895f9d970309c",
+                        "class_name": "RelatedNodeInfo"
+                    }
+                },
+                "text": "百炼手机产品介绍\n\n百炼X1 —— 畅享极致视界：搭载6.7英寸1440 x 3200像素超清屏幕，搭配120Hz刷新率，流畅视觉体验跃然眼前。256GB海量存储空间与12GB RAM强强联合，无论是大型游戏还是多任务处理，都能轻松应对。5000mAh电池长续航，加上超感光四摄系统，记录生活每一刻精彩。参考售价：4599 - 4999\n\n通义Vivid 7 —— 智能摄影新体验：拥有6.5英寸1080 x 2400像素全面屏，AI智能摄影功能让每一张照片都能展现专业级色彩与细节。8GB RAM与128GB存储空间确保流畅操作，4500mAh电池满足日常所需。侧面指纹解锁，便捷又安全。参考售价：2999 - 3299\n\n星尘S9 Pro —— 创新视觉盛宴：突破性6.9英寸1440 x 3088像素屏下摄像头设计，带来无界视觉享受。512GB存储与16GB RAM的顶级配置，配合6000mAh电池与100W快充技术，让性能与续航并驾齐驱，引领科技潮流。参考售价：5999 - 6499。\n\n百炼Ace Ultra —— 游戏玩家之选：配备6.67英寸1080 x 2400像素屏幕，内置10GB RAM与256GB存储，确保游戏运行丝滑无阻。5500mAh电池搭配液冷散热系统，长时间游戏也能保持冷静。高动态双扬声器，沉浸式音效升级游戏体验。参考售价：3999 - 4299。\n\n百炼Zephyr Z9 —— 轻薄便携的艺术：轻巧的6.4英寸1080 x 2340像素设计，搭配128GB存储与6GB RAM，日常使用游刃有余。4000mAh电池确保一天无忧，30倍数字变焦镜头捕捉远处细节，轻薄而不失强大。参考售价：2499 - 2799。\n\n百炼Flex Fold+ —— 折叠屏新纪元：集创新与奢华于一身，主屏7.6英寸1800 x 2400像素与外屏4.7英寸1080 x 2400像素，多角度自由悬停设计，满足不同场景需求。512GB存储、12GB RAM，加之4700mAh电池与UTG超薄柔性玻璃，开启折叠屏时代新篇章。此外，这款手机还支持双卡双待、卫星通话，帮助您在世界各地都能畅联通话。参考零售价：9999 - 10999。",
+                "mimetype": "text/plain",
+                "start_char_idx": 0,
+                "end_char_idx": 926,
+                "text_template": "{metadata_str}\n\n{content}",
+                "metadata_template": "{key}: {value}",
+                "metadata_seperator": "\n",
+                "class_name": "TextNode"
+            },
+            "__type__": "1"
+        }
+    },
+    "docstore/ref_doc_info": {
+        "d702c946-1fda-429f-a0f7-ab4079ebfc24": {
+            "node_ids": [
+                "40cb2fbc-b40e-477c-b01f-fa67e2269543"
+            ],
+            "metadata": {
+                "page_label": "1",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "3bbd57bc-133d-4804-8829-7364ffbd286f": {
+            "node_ids": [
+                "519aaee9-546b-423f-87fa-c565faec977e"
+            ],
+            "metadata": {
+                "page_label": "2",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "b475633e-3203-4ee3-9d4c-c1c705d38294": {
+            "node_ids": [
+                "cac36f88-e46b-43a7-aafd-21c441c9cd34"
+            ],
+            "metadata": {
+                "page_label": "3",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "35e4751b-0fa4-439f-a569-f8907b94d5db": {
+            "node_ids": [
+                "8f42eaf4-fac0-41ec-b150-c9b54be5fc96"
+            ],
+            "metadata": {
+                "page_label": "4",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "571b9678-9d8c-4ae4-a144-65cb115bb2cf": {
+            "node_ids": [
+                "a6a9d8d9-2852-40e2-9461-74a0eaddd883"
+            ],
+            "metadata": {
+                "page_label": "5",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "07b9001f-cca9-45da-98f6-41f3ac87d561": {
+            "node_ids": [
+                "8dbd6147-8857-4a89-8bd4-f2526732ba73"
+            ],
+            "metadata": {
+                "page_label": "6",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "edb88d44-d8b0-4d4c-b460-6652290cf124": {
+            "node_ids": [
+                "455a2447-f529-4675-94fe-b9f87d858da9"
+            ],
+            "metadata": {
+                "page_label": "7",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "66295343-3a33-4a26-8e4a-f7b05f2c567e": {
+            "node_ids": [
+                "88ce2758-7d1b-4c94-b2b4-52da467074cd"
+            ],
+            "metadata": {
+                "page_label": "8",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "48321630-99e7-464d-979d-87b5cc5c7f55": {
+            "node_ids": [
+                "7b81e028-60a7-4f65-b2cc-826fb7369cf6"
+            ],
+            "metadata": {
+                "page_label": "9",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "73a5a6f9-478e-4aaa-aa6c-ff5209d09510": {
+            "node_ids": [
+                "01cd1c6b-35b2-4244-adac-f94db9b23910"
+            ],
+            "metadata": {
+                "page_label": "10",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "43327042-44c8-4358-91a0-289b5a64fad4": {
+            "node_ids": [
+                "42942815-1ab0-410f-8e6f-b7a12e9d4032"
+            ],
+            "metadata": {
+                "page_label": "11",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "0f04b3e9-006e-47bd-b68d-3d98274cc3dd": {
+            "node_ids": [
+                "faf5be71-16e0-4694-bed6-4a0bf8514c45"
+            ],
+            "metadata": {
+                "page_label": "12",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "fe2ef1f0-7b8c-47a3-8817-29cab20ac02f": {
+            "node_ids": [
+                "0dbaf520-3772-4177-b5be-6505ae0d7a3a"
+            ],
+            "metadata": {
+                "page_label": "13",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "7633b43d-f511-4bfc-943e-d3eef0a4ed17": {
+            "node_ids": [
+                "10943b95-1b9e-4688-ac65-0209b4d8ec8e"
+            ],
+            "metadata": {
+                "page_label": "14",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "0a5662d6-3a4a-40dd-9872-1b259735f43c": {
+            "node_ids": [
+                "1e427952-272f-492d-b76f-f8892a68dbc3"
+            ],
+            "metadata": {
+                "page_label": "15",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "cdf88046-5aec-4b72-9b17-3af6691775de": {
+            "node_ids": [
+                "88e39575-8667-4962-8c1f-e95f2f5a1ef2"
+            ],
+            "metadata": {
+                "page_label": "16",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "4176fc5d-189d-4cd4-9507-79818be1af3e": {
+            "node_ids": [
+                "17bb234f-772e-4458-bf76-4149f16ddf65"
+            ],
+            "metadata": {
+                "page_label": "17",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "9febc672-56c2-438e-96d2-2ba69bfefc5e": {
+            "node_ids": [
+                "7ec7a60b-7a92-49dc-aaaf-c062d67abc10"
+            ],
+            "metadata": {
+                "page_label": "18",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "44cd82b4-48f0-4b88-aad0-0efe650f323b": {
+            "node_ids": [
+                "8f87d190-2a42-4d14-b79e-c39060e8e529"
+            ],
+            "metadata": {
+                "page_label": "19",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "b1798aa8-57cc-44f1-b167-ff3576096b10": {
+            "node_ids": [
+                "1657c5cd-b1de-4e6c-9415-30b39975c822"
+            ],
+            "metadata": {
+                "page_label": "20",
+                "file_name": "内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容公司各部门职责与关键角色联系信息汇总.pdf",
+                "file_type": "application/pdf",
+                "file_size": 199353,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "0908a19e-7d7f-49aa-ae9a-f30b7513fdfd": {
+            "node_ids": [
+                "fe293f49-aa60-46f8-bdf5-7fd0b44d3a38",
+                "e325f399-0fe0-465b-93d5-e3a235879a06",
+                "c4a7da8c-6d71-4c02-bab7-69ef7c09ca69",
+                "52303e9f-84ec-45ae-a5cb-e6e1a3fd5eaf"
+            ],
+            "metadata": {
+                "file_name": "内容开发工程师岗位指导说明书.docx",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.docx",
+                "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "file_size": 22966,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "a73e2139-6573-4a45-9820-e07528c89f16": {
+            "node_ids": [
+                "3c799bc0-ecda-45ac-a99d-c47bb63a96ce"
+            ],
+            "metadata": {
+                "page_label": "1",
+                "file_name": "内容开发工程师岗位指导说明书.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                "file_type": "application/pdf",
+                "file_size": 630120,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "321559d9-1876-4d5f-9413-ff7d8afd826b": {
+            "node_ids": [
+                "f671b1c7-1e05-4fa1-8e2a-1c94a5d50b83"
+            ],
+            "metadata": {
+                "page_label": "2",
+                "file_name": "内容开发工程师岗位指导说明书.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                "file_type": "application/pdf",
+                "file_size": 630120,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "8f88c66a-b738-43f5-bc98-51559b5e20ee": {
+            "node_ids": [
+                "7047aab1-a726-4812-b0fe-94540eb7256f"
+            ],
+            "metadata": {
+                "page_label": "3",
+                "file_name": "内容开发工程师岗位指导说明书.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                "file_type": "application/pdf",
+                "file_size": 630120,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "be5879ee-0b45-485b-b2e4-09b34c038dca": {
+            "node_ids": [
+                "c46bb70c-ae36-4dc9-9dbf-c505197de630"
+            ],
+            "metadata": {
+                "page_label": "4",
+                "file_name": "内容开发工程师岗位指导说明书.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                "file_type": "application/pdf",
+                "file_size": 630120,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "657d2866-dfe0-4087-aee6-fb4312eb1c61": {
+            "node_ids": [
+                "3802c49d-5640-428d-b86b-279354aa93a1"
+            ],
+            "metadata": {
+                "page_label": "5",
+                "file_name": "内容开发工程师岗位指导说明书.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                "file_type": "application/pdf",
+                "file_size": 630120,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "8ffa95cd-8d03-4b28-8f3d-577884628a2d": {
+            "node_ids": [
+                "c6c19244-8748-4e2c-857d-ee7afb679c7a"
+            ],
+            "metadata": {
+                "page_label": "6",
+                "file_name": "内容开发工程师岗位指导说明书.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\内容开发工程师岗位指导说明书.pdf",
+                "file_type": "application/pdf",
+                "file_size": 630120,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "f20c3c86-50bf-4b5f-ad3a-63c9c37b13d1": {
+            "node_ids": [
+                "432b035d-ed2d-4283-a9e3-d8bda21ba301"
+            ],
+            "metadata": {
+                "file_name": "测试文档1.docx",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\测试文档1.docx",
+                "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "file_size": 19569,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "9cd6bb64-97ba-43e7-89a9-5f133e7a073a": {
+            "node_ids": [
+                "81abb110-30a3-4f32-a5db-93f4184fbeb5"
+            ],
+            "metadata": {
+                "page_label": "1",
+                "file_name": "测试文档1.pdf",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\测试文档1.pdf",
+                "file_type": "application/pdf",
+                "file_size": 90503,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        },
+        "1605284c-d445-421a-aa84-d812878ee213": {
+            "node_ids": [
+                "2e0e1470-5c9c-4a1d-85b8-9b4420d14e8d"
+            ],
+            "metadata": {
+                "file_name": "百炼系列手机产品介绍.docx",
+                "file_path": "d:\\Version\\AI\\aliyun_acp_learning\\大模型ACP认证教程\\p2_构造大模型问答系统\\docs\\百炼系列手机产品介绍.docx",
+                "file_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+                "file_size": 13858,
+                "creation_date": "2025-12-09",
+                "last_modified_date": "2025-12-09"
+            }
+        }
+    }
+}
